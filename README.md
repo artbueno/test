@@ -1,2 +1,2 @@
 # artbueno.github.io
-A GitHub pages site I use for blogging.
+A GitHub Pages site I use for blogging.
